@@ -56,7 +56,9 @@ Through this project, the following concepts were learned:
 ![recommend](preview.png)
 
 ## How to Run
-Before running the recommendation system, you must train the model:
+Before running the recommendation system, you must train the model
+
+Open terminal in this folder
 
 ### Step 1 – Train the Model
 
