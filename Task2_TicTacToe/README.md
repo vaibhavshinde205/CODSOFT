@@ -53,7 +53,7 @@ Through this project, the following concepts were learned:
 
 ![tic-tac-toe](preview.png)
 
-## ▶ How to Run
+## How to Run
 
 1. Make sure Python is installed  
 2. Open terminal in this folder  
