@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System using KNN (Task 4)
+# Movie Recommendation System using KNN (Task 4)
 
 This is a **Movie Recommendation System** developed as part of the **CODSOFT Artificial Intelligence Internship**.
 
@@ -55,7 +55,7 @@ Through this project, the following concepts were learned:
 
 ![recommend](preview.png)
 
-## ▶ How to Run
+## How to Run
 Before running the recommendation system, you must train the model:
 
 ### Step 1 – Train the Model
