@@ -1,4 +1,4 @@
-# Movie Recommendation System using KNN (Task 3)
+# Movie Recommendation System using KNN (Task 4)
 
 This is a **Movie Recommendation System** developed as part of the **CODSOFT Artificial Intelligence Internship**.
 
@@ -79,7 +79,7 @@ Enter a movie name to get recommendations.
 ## Project Structure
 
 ```
-Task3_RecommendationSystem/
+Task4_RecommendationSystem/
 ├── train_model.py
 ├── recommend.py
 ├── ratings.csv
